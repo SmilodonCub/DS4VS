@@ -1,0 +1,223 @@
+EXPERIMENT PARAMETERS:
+
+3/14/2011	10:43:21 AM to 10:47:00 AM
+mj
+Eye Tested: Right
+Spatial Frequency (cycles/degree): 0.4
+Drift Velocity: 2
+Distance between stimuli (deg): 0.1
+Stimuli Eccentricity (deg): 0
+Viewing Distance (mm): 480
+Temporal Envelope Type: RaisedCosine
+   Attack/Decay Time (msec): 10
+Trial Duration (msec): 120
+Maximum Number of Reversals: 12
+Number of Staircases: 2
+Interval between free trials: 10000
+Type of Vernier: InPhase
+Maximal Red, Green, Blue Gun settings are 1.0, 1.0, 1.0
+
+STIMULUS 1:
+   Contrast Level: 100
+   Color Min: Red: 0  Green: 210  Blue: 0
+   Color Max: Red: 700  Green: 0  Blue: 0
+   Size (deg):  X: 5  Y: 25
+STIMULUS 2:
+   Contrast Level: 100
+   Color Min: Red: 0  Green: 210  Blue: 0
+   Color Max: Red: 700  Green: 0  Blue: 0
+   Size (deg):  X: 5  Y: 25
+BACKGROUND:
+   Red: 350  Green: 105  Blue: 0
+   Size (deg):  X: 45  Y: 30
+
+STAIRCASES:
+
+Results for Staircase 1
+Experiment termination type 1: Normal termination
+Drift Direction: up
+Initial Phase Shift (deg): 53.5749
+Staircase completed after 50 trials with 12 reversals at (deg):
+3.34847
+5.31535
+4.2188
+5.31535
+3.34847
+6.69691
+4.2188
+10.6307
+6.69691
+10.6307
+5.31535
+6.69691
+
+RESULTS:	
+Phase Shift(deg)	Seen	Not Seen	Per. Corr.		Weibull
+53.5749		2	0	100		100
+33.7502		2	0	100		100
+21.2613		2	0	100		99.9629
+13.3938		2	0	100		97.1187
+10.6307		4	0	100		91.7003
+8.43758		7	2	77.7778		83.8491
+6.69691		6	2	75		75.4449
+5.31535		8	3	72.7273		68.0381
+4.2188		4	3	57.1429		62.2706
+3.34847		1	2	33.3333		58.1191
+
+log Mean of Reversal (deg): 1.28774(6.95983)	log StdDev of Reversal: 0.00747913
+Maximum Likelihood Fit:
+  log Threshold (deg) = 1.31(6.61201)	Slope = 2.00475	FalseNeg = 0
+Log ratio of thh (absolute value) = 0.0222648
+
+Results for Staircase 2
+Experiment termination type 1: Normal termination
+Drift Direction: down
+Initial Phase Shift (deg): 53.5749
+Staircase completed after 54 trials with 12 reversals at (deg):
+3.34847
+8.43758
+4.2188
+5.31535
+2.65768
+4.2188
+3.34847
+4.2188
+1.67424
+3.34847
+2.65768
+4.2188
+
+RESULTS:	
+Phase Shift(deg)	Seen	Not Seen	Per. Corr.		Weibull
+53.5749		2	0	100		100
+33.7502		2	0	100		100
+21.2613		2	0	100		100
+13.3938		2	0	100		100
+8.43758		4	0	100		99.9998
+6.69691		2	0	100		99.6784
+5.31535		6	1	85.7143		93.2515
+4.2188		9	1	90		77.4159
+3.34847		7	4	63.6364		63.5255
+2.65768		3	3	50		55.8827
+2.1094		3	1	75		52.423
+1.67424		1	1	50		50.976
+
+log Mean of Reversal (deg): 1.63894(3.10026)	log StdDev of Reversal: 0.059833
+Maximum Likelihood Fit:
+  log Threshold (deg) = 1.52(4.07693)	Slope = 4	FalseNeg = 0
+Log ratio of thh (absolute value) = 0.118936
+
+
+RAW STAIRCASE DATA:
+
+
+Raw data for staircase 1
+Order	Phase(deg)	Incorrect	Side	Response	Eccentricity	Trial Type
+4	53.57495		 	1	1	0		R
+6	53.57495		 	2	2	0		R
+7	33.75015		 	2	2	0		R
+9	33.75015		 	2	2	0		R
+10	21.26130		 	1	1	0		R
+12	21.26130		 	1	1	0		R
+13	13.39380		 	1	1	0		R
+14	13.39380		 	2	2	0		R
+18	 8.43758		 	2	2	0		R
+19	 8.43758		 	1	1	0		R
+20	 5.31535		 	1	1	0		R
+25	 5.31535		 	1	1	0		R
+26	 3.34847		*	2	1	0		R
+27	 5.31535		 	1	1	0		R
+28	 5.31535		 	1	1	0		R
+33	 4.21880		 	2	2	0		R
+37	 4.21880		*	2	1	0		R
+39	 5.31535		 	2	2	0		R
+42	 5.31535		 	1	1	0		R
+43	 4.21880		 	2	2	0		R
+46	 4.21880		 	2	2	0		R
+48	 3.34847		 	1	1	0		R
+50	 3.34847		*	1	2	0		R
+51	 4.21880		 	1	1	0		R
+52	 4.21880		*	2	1	0		R
+53	 5.31535		*	2	1	0		R
+54	 6.69691		 	1	1	0		R
+56	 6.69691		 	2	2	0		R
+57	 5.31535		 	1	1	0		R
+58	 5.31535		 	1	1	0		R
+59	 4.21880		*	2	1	0		R
+62	 5.31535		*	2	1	0		R
+63	 6.69691		*	2	1	0		R
+66	 8.43758		*	1	2	0		R
+73	10.63067		 	1	1	0		R
+74	10.63067		 	1	1	0		R
+75	 8.43758		 	2	2	0		R
+76	 8.43758		 	2	2	0		R
+77	 6.69691		*	1	2	0		R
+81	 8.43758		 	2	2	0		R
+83	 8.43758		*	2	1	0		R
+85	10.63067		 	2	2	0		R
+91	10.63067		 	1	1	0		R
+93	 8.43758		 	1	1	0		R
+98	 8.43758		 	2	2	0		R
+99	 6.69691		 	1	1	0		R
+100	 6.69691		 	1	1	0		R
+101	 5.31535		*	2	1	0		R
+102	 6.69691		 	1	1	0		R
+103	 6.69691		 	1	1	0		R
+
+
+Raw data for staircase 2
+Order	Phase(deg)	Incorrect	Side	Response	Eccentricity	Trial Type
+0	53.57495		 	1	1	0		R
+1	53.57495		 	2	2	0		R
+2	33.75015		 	1	1	0		R
+3	33.75015		 	1	1	0		R
+5	21.26130		 	2	2	0		R
+8	21.26130		 	2	2	0		R
+11	13.39380		 	2	2	0		R
+15	13.39380		 	1	1	0		R
+16	 8.43758		 	1	1	0		R
+17	 8.43758		 	1	1	0		R
+21	 5.31535		 	2	2	0		R
+22	 5.31535		 	2	2	0		R
+23	 3.34847		*	1	2	0		R
+24	 5.31535		*	2	1	0		R
+29	 8.43758		 	2	2	0		R
+30	 8.43758		 	1	1	0		R
+31	 6.69691		 	1	1	0		R
+32	 6.69691		 	1	1	0		R
+34	 5.31535		 	2	2	0		R
+35	 5.31535		 	1	1	0		R
+36	 4.21880		 	1	1	0		R
+38	 4.21880		*	2	1	0		R
+40	 5.31535		 	2	2	0		R
+41	 5.31535		 	2	2	0		R
+44	 4.21880		 	1	1	0		R
+45	 4.21880		 	2	2	0		R
+47	 3.34847		 	1	1	0		R
+49	 3.34847		 	1	1	0		R
+55	 2.65768		 	2	2	0		R
+60	 2.65768		*	2	1	0		R
+61	 3.34847		*	2	1	0		R
+64	 4.21880		 	1	1	0		R
+65	 4.21880		 	1	1	0		R
+67	 3.34847		 	1	1	0		R
+68	 3.34847		*	2	1	0		R
+69	 4.21880		 	2	2	0		R
+70	 4.21880		 	1	1	0		R
+71	 3.34847		 	1	1	0		R
+72	 3.34847		 	1	1	0		R
+78	 2.65768		 	2	2	0		R
+79	 2.65768		 	2	2	0		R
+80	 2.10940		 	2	2	0		R
+82	 2.10940		 	1	1	0		R
+84	 1.67424		 	1	1	0		R
+86	 1.67424		*	2	1	0		R
+87	 2.10940		 	1	1	0		R
+88	 2.10940		*	2	1	0		R
+89	 2.65768		*	2	1	0		R
+90	 3.34847		 	1	1	0		R
+92	 3.34847		 	1	1	0		R
+94	 2.65768		*	2	1	0		R
+95	 3.34847		*	2	1	0		R
+96	 4.21880		 	2	2	0		R
+97	 4.21880		 	1	1	0		R

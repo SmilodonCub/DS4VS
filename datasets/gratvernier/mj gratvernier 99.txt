@@ -1,0 +1,183 @@
+EXPERIMENT PARAMETERS:
+
+3/21/2011	2:49:55 PM to 2:52:27 PM
+mj
+Eye Tested: Right
+Spatial Frequency (cycles/degree): 0.4
+Drift Velocity: 2
+Distance between stimuli (deg): 0
+Stimuli Eccentricity (deg): 0
+Viewing Distance (mm): 480
+Temporal Envelope Type: RaisedCosine
+   Attack/Decay Time (msec): 10
+Trial Duration (msec): 120
+Maximum Number of Reversals: 12
+Number of Staircases: 2
+Interval between free trials: 10000
+Type of Vernier: OutOfPhase
+Maximal Red, Green, Blue Gun settings are 1.0, 1.0, 1.0
+
+STIMULUS 1:
+   Contrast Level: 100
+   Color Min: Red: 0  Green: 210  Blue: 0
+   Color Max: Red: 700  Green: 0  Blue: 0
+   Size (deg):  X: 5  Y: 25
+STIMULUS 2:
+   Contrast Level: 100
+   Color Min: Red: 0  Green: 210  Blue: 0
+   Color Max: Red: 700  Green: 0  Blue: 0
+   Size (deg):  X: 5  Y: 25
+BACKGROUND:
+   Red: 350  Green: 105  Blue: 0
+   Size (deg):  X: 45  Y: 30
+
+STAIRCASES:
+
+Results for Staircase 1
+Experiment termination type 1: Normal termination
+Drift Direction: up
+Initial Phase Shift (deg): 53.5749
+Staircase completed after 37 trials with 12 reversals at (deg):
+33.7502
+53.5749
+21.2613
+33.7502
+26.7875
+33.7502
+26.7875
+33.7502
+16.8751
+26.7875
+21.2613
+26.7875
+
+RESULTS:	
+Phase Shift(deg)	Seen	Not Seen	Per. Corr.		Weibull
+53.5749		4	0	100		99.999
+42.5225		2	0	100		99.3249
+33.7502		8	1	88.8889		90.9424
+26.7875		10	3	76.9231		74.6181
+21.2613		4	3	57.1429		61.7951
+16.8751		1	1	50		55.0637
+
+log Mean of Reversal (deg): 0.735849(24.8019)	log StdDev of Reversal: 0.0149583
+Maximum Likelihood Fit:
+  log Threshold (deg) = 0.7(26.936)	Slope = 4	FalseNeg = 0
+Log ratio of thh (absolute value) = 0.0358487
+
+Results for Staircase 2
+Experiment termination type 1: Normal termination
+Drift Direction: down
+Initial Phase Shift (deg): 53.5749
+Staircase completed after 36 trials with 12 reversals at (deg):
+85.0448
+21.2613
+26.7875
+21.2613
+33.7502
+26.7875
+53.5749
+33.7502
+42.5225
+16.8751
+21.2613
+16.8751
+
+RESULTS:	
+Phase Shift(deg)	Seen	Not Seen	Per. Corr.		Weibull
+85.0448		2	0	100		95.2971
+53.5749		4	1	80		87.2158
+42.5225		4	1	80		79.7715
+33.7502		6	2	75		72.1205
+26.7875		4	2	66.6667		65.5502
+21.2613		5	2	71.4286		60.5179
+16.8751		1	2	33.3333		56.9331
+
+log Mean of Reversal (deg): 0.685677(27.8392)	log StdDev of Reversal: 0.0972286
+Maximum Likelihood Fit:
+  log Threshold (deg) = 0.59(34.7003)	Slope = 2.00475	FalseNeg = 0.04
+Log ratio of thh (absolute value) = 0.0956772
+
+
+RAW STAIRCASE DATA:
+
+
+Raw data for staircase 1
+Order	Phase(deg)	Incorrect	Side	Response	Eccentricity	Trial Type
+0	53.57495		 	2	2	0		R
+1	53.57495		 	2	2	0		R
+4	33.75015		*	2	1	0		R
+8	53.57495		 	1	1	0		R
+9	53.57495		 	1	1	0		R
+12	42.52250		 	1	1	0		R
+14	42.52250		 	2	2	0		R
+15	33.75015		 	1	1	0		R
+16	33.75015		 	1	1	0		R
+18	26.78754		 	2	2	0		R
+20	26.78754		 	2	2	0		R
+21	21.26130		 	1	1	0		R
+23	21.26130		*	2	1	0		R
+26	26.78754		 	2	2	0		R
+29	26.78754		*	2	1	0		R
+30	33.75015		 	1	1	0		R
+32	33.75015		 	1	1	0		R
+33	26.78754		*	2	1	0		R
+34	33.75015		 	1	1	0		R
+35	33.75015		 	1	1	0		R
+36	26.78754		 	1	1	0		R
+39	26.78754		*	2	1	0		R
+41	33.75015		 	2	2	0		R
+42	33.75015		 	1	1	0		R
+43	26.78754		 	1	1	0		R
+44	26.78754		 	1	1	0		R
+47	21.26130		 	2	2	0		R
+50	21.26130		 	1	1	0		R
+52	16.87512		 	1	1	0		R
+54	16.87512		*	2	1	0		R
+57	21.26130		*	2	1	0		R
+58	26.78754		 	2	2	0		R
+59	26.78754		 	1	1	0		R
+61	21.26130		 	2	2	0		R
+62	21.26130		*	2	1	0		R
+63	26.78754		 	1	1	0		R
+64	26.78754		 	1	1	0		R
+
+
+Raw data for staircase 2
+Order	Phase(deg)	Incorrect	Side	Response	Eccentricity	Trial Type
+2	53.57495		*	2	1	0		R
+3	85.04480		 	1	1	0		R
+5	85.04480		 	1	1	0		R
+6	53.57495		 	2	2	0		R
+7	53.57495		 	2	2	0		R
+10	33.75015		 	1	1	0		R
+11	33.75015		 	1	1	0		R
+13	21.26130		 	1	1	0		R
+17	21.26130		*	2	1	0		R
+19	26.78754		 	1	1	0		R
+22	26.78754		 	1	1	0		R
+24	21.26130		*	2	1	0		R
+25	26.78754		*	2	1	0		R
+27	33.75015		 	2	2	0		R
+28	33.75015		 	1	1	0		R
+31	26.78754		*	2	1	0		R
+37	33.75015		*	2	1	0		R
+38	42.52250		*	2	1	0		R
+40	53.57495		 	1	1	0		R
+45	53.57495		 	1	1	0		R
+46	42.52250		 	2	2	0		R
+48	42.52250		 	1	1	0		R
+49	33.75015		*	2	1	0		R
+51	42.52250		 	2	2	0		R
+53	42.52250		 	1	1	0		R
+55	33.75015		 	1	1	0		R
+56	33.75015		 	1	1	0		R
+60	26.78754		 	2	2	0		R
+65	26.78754		 	2	2	0		R
+66	21.26130		 	1	1	0		R
+67	21.26130		 	1	1	0		R
+68	16.87512		 	1	1	0		R
+69	16.87512		*	2	1	0		R
+70	21.26130		 	1	1	0		R
+71	21.26130		 	1	1	0		R
+72	16.87512		*	2	1	0		R

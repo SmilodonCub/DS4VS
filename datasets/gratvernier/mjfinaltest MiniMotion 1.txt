@@ -1,0 +1,20 @@
+EXPERIMENT PARAMETERS:
+
+1/18/2011	2:37:16 PM to 2:49:42 PM
+Subject: mjfinaltest
+ExperimentType (Fixed-Varied): RG
+Temporal Frequency (Hz): 10
+Spatial Frequency (cpd): 1
+Fixed gun: 1.000000   Varied gun Init: 0.377300
+Trial No.    VariedGun Setting
+0            0.01730
+1            0.01730
+2            0.04730
+3            0.04730
+4            0.30230
+5            0.01730
+6            0.31730
+7            0.30230
+8            0.30230
+9            0.28730
+Average Varied gun  0.16580,  Ratio(Set/Init)  0.43944
