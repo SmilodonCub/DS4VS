@@ -17,3 +17,5 @@ Data Science is a fast growing inter-disciplinary collection of algorithms, tool
 |        Machine Learning: Supervised       | basic supervised learning approaches for numeric data: regression & decision trees and categorical data: classification/categorization (e.g. kNN) |
 |       Machine Learning: Unsupervised      | basic unsupervised learning approaches for numeric data: dimensionality reduction (e.g PCA) and categorical data: clustering (e.g. K-mean)        |
 |               Data Naratives              | students will organize a project, prepare a report and give a brief talk to present thier findings                                                |
+
+## Dreamteam Fall Semester 2021:
