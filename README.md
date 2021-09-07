@@ -19,3 +19,4 @@ Data Science is a fast growing inter-disciplinary collection of algorithms, tool
 |               Data Naratives              | students will organize a project, prepare a report and give a brief talk to present thier findings                                                |
 
 ## Dreamteam Fall Semester 2021:
+Akihito Maruya
