@@ -21,3 +21,4 @@ Data Science is a fast growing inter-disciplinary collection of algorithms, tool
 ## Dreamteam Fall Semester 2021:
 Sabina Poudel
 Akihito Maruya
+Farzaneh Olianezhad
