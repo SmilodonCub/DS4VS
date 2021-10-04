@@ -1,0 +1,190 @@
+EXPERIMENT PARAMETERS:
+
+6/13/2011	3:37:09 PM to 3:42:05 PM
+Observer Name: re
+Eye Tested: Left
+Type of grating: Equiluminance
+Spatial Frequency(cpd): 0.251
+DriftVelocity: 0.5
+Stimuli Eccentricity(deg): 0
+Viewing Distance(mm): 480
+Temporal Envelope Type: RaisedCosine
+   Attack/Decay Time (msec): 350
+Trial Duration (msec): 300
+Maximum Number of Reversals: 12
+Number of Staircases: 2
+Maximal Red, Green, Blue Gun settings are 1.0, 1.0,1.0
+
+STIMULUS :
+   Contrast Level: 100
+   Color Min: Red: 0  Green: 107  Blue: 0
+   Color Max: Red: 705  Green: 0  Blue: 0
+   Size (deg):  X: 50  Y: 40
+BACKGROUND:
+   Red: 35.25  Green: 5.35  Blue: 0
+   Size (deg):  X: 0  Y: 0
+
+STAIRCASES:
+
+Results for Staircase 1
+Experiment termination type 1: Normal termination
+Drift Direction: up
+Initial Contrast: 25.1189
+Staircase completed after 42 trials with 12 reversals at :
+0.199526
+1.58489
+1.12202
+2.23872
+1.12202
+1.58489
+1.12202
+2.23872
+1.58489
+2.23872
+1.58489
+2.23872
+
+RESULTS:	
+Contrast	Seen	Not Seen	Per. Corr.		Weibull
+25.1189		2	0	100		100
+12.5893		2	0	100		100
+6.30957		2	0	100		100
+3.16228		2	0	100		100
+2.23872		8	0	100		100
+1.58489		10	4	71.4286		75
+1.12202		1	3	25		50
+0.794328		3	1	75		50
+0.398107		2	1	66.6667		50
+0.199526		0	1	0		50
+
+log Mean of Reversal (deg): 1.75(1.77828)	log StdDev of Reversal: 0.0447214
+Maximum Likelihood Fit:
+  log Threshold (deg) = 1.8(1.58489)	Slope = 63.3957	FalseNeg = 0
+Log ratio of thh (absolute value) = 0.05
+
+Results for Staircase 2
+Experiment termination type 1: Normal termination
+Drift Direction: down
+Initial Contrast: 25.1189
+Staircase completed after 41 trials with 12 reversals at :
+1.58489
+3.16228
+1.58489
+2.23872
+1.58489
+3.16228
+1.12202
+2.23872
+1.58489
+2.23872
+1.12202
+2.23872
+
+RESULTS:	
+Contrast	Seen	Not Seen	Per. Corr.		Weibull
+25.1189		2	0	100		100
+12.5893		2	0	100		100
+6.30957		2	0	100		100
+3.16228		6	0	100		100
+2.23872		12	1	92.3077		91.2004
+1.58489		7	6	53.8462		55.2234
+1.12202		1	2	33.3333		50.3492
+
+log Mean of Reversal (deg): 1.775(1.6788)	log StdDev of Reversal: 0.0559017
+Maximum Likelihood Fit:
+  log Threshold (deg) = 1.7(1.99526)	Slope = 7.98105	FalseNeg = 0
+Log ratio of thh (absolute value) = 0.075
+
+
+RAW STAIRCASE DATA:
+
+
+Raw data for staircase 1
+Order	Contrast	Incorrect	Side	Response	Eccentricity	Trial Type
+0	25.11886		 	2	2	0		R
+2	25.11886		 	1	1	0		R
+3	12.58925		 	2	2	0		R
+7	12.58925		 	2	2	0		R
+9	 6.30957		 	2	2	0		R
+11	 6.30957		 	1	1	0		R
+12	 3.16228		 	1	1	0		R
+14	 3.16228		 	2	2	0		R
+15	 1.58489		 	1	1	0		R
+16	 1.58489		 	1	1	0		R
+17	 0.79433		 	1	1	0		R
+18	 0.79433		 	2	2	0		R
+24	 0.39811		 	1	1	0		R
+25	 0.39811		 	1	1	0		R
+26	 0.19953		*	2	1	0		R
+28	 0.39811		*	2	1	0		R
+30	 0.79433		 	2	2	0		R
+31	 0.79433		*	1	2	0		R
+32	 1.58489		 	1	1	0		R
+34	 1.58489		 	1	1	0		R
+37	 1.12202		*	2	1	0		R
+39	 1.58489		*	2	1	0		R
+42	 2.23872		 	1	1	0		R
+44	 2.23872		 	2	2	0		R
+45	 1.58489		 	1	1	0		R
+46	 1.58489		 	1	1	0		R
+48	 1.12202		*	2	1	0		R
+49	 1.58489		 	2	2	0		R
+50	 1.58489		 	2	2	0		R
+51	 1.12202		 	1	1	0		R
+52	 1.12202		*	2	1	0		R
+55	 1.58489		*	2	1	0		R
+57	 2.23872		 	1	1	0		R
+58	 2.23872		 	1	1	0		R
+59	 1.58489		 	1	1	0		R
+61	 1.58489		*	2	1	0		R
+62	 2.23872		 	1	1	0		R
+63	 2.23872		 	1	1	0		R
+64	 1.58489		 	2	2	0		R
+65	 1.58489		*	2	1	0		R
+66	 2.23872		 	2	2	0		R
+67	 2.23872		 	1	1	0		R
+
+
+Raw data for staircase 2
+Order	Contrast	Incorrect	Side	Response	Eccentricity	Trial Type
+1	25.11886		 	1	1	0		R
+4	25.11886		 	1	1	0		R
+5	12.58925		 	2	2	0		R
+6	12.58925		 	1	1	0		R
+8	 6.30957		 	2	2	0		R
+10	 6.30957		 	2	2	0		R
+13	 3.16228		 	1	1	0		R
+19	 3.16228		 	1	1	0		R
+20	 1.58489		*	1	2	0		R
+21	 3.16228		 	2	2	0		R
+22	 3.16228		 	2	2	0		R
+23	 2.23872		 	2	2	0		R
+27	 2.23872		 	1	1	0		R
+29	 1.58489		 	1	1	0		R
+33	 1.58489		*	1	2	0		R
+35	 2.23872		 	2	2	0		R
+36	 2.23872		 	2	2	0		R
+38	 1.58489		 	1	1	0		R
+40	 1.58489		*	2	1	0		R
+41	 2.23872		*	2	1	0		R
+43	 3.16228		 	2	2	0		R
+47	 3.16228		 	1	1	0		R
+53	 2.23872		 	1	1	0		R
+54	 2.23872		 	2	2	0		R
+56	 1.58489		 	1	1	0		R
+60	 1.58489		 	1	1	0		R
+68	 1.12202		*	2	1	0		R
+69	 1.58489		 	2	2	0		R
+70	 1.58489		*	2	1	0		R
+71	 2.23872		 	1	1	0		R
+72	 2.23872		 	2	2	0		R
+73	 1.58489		*	2	1	0		R
+74	 2.23872		 	1	1	0		R
+75	 2.23872		 	1	1	0		R
+76	 1.58489		 	1	1	0		R
+77	 1.58489		 	2	2	0		R
+78	 1.12202		 	1	1	0		R
+79	 1.12202		*	1	2	0		R
+80	 1.58489		*	2	1	0		R
+81	 2.23872		 	2	2	0		R
+82	 2.23872		 	2	2	0		R

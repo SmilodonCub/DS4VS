@@ -1,0 +1,188 @@
+EXPERIMENT PARAMETERS:
+
+6/15/2011	2:46:19 PM to 2:50:51 PM
+Observer Name: re
+Eye Tested: Left
+Type of grating: Luminance
+Spatial Frequency(cpd): 1.585
+DriftVelocity: 0.5
+Stimuli Eccentricity(deg): 0
+Viewing Distance(mm): 480
+Temporal Envelope Type: RaisedCosine
+   Attack/Decay Time (msec): 350
+Trial Duration (msec): 300
+Maximum Number of Reversals: 12
+Number of Staircases: 2
+Maximal Red, Green, Blue Gun settings are 1.0, 1.0,1.0
+
+STIMULUS :
+   Contrast Level: 100
+   Color Min: Red: 0  Green: 0  Blue: 0
+   Color Max: Red: 705  Green: 107  Blue: 0
+   Size (deg):  X: 50  Y: 40
+BACKGROUND:
+   Red: 35.25  Green: 5.35  Blue: 0
+   Size (deg):  X: 0  Y: 0
+
+STAIRCASES:
+
+Results for Staircase 1
+Experiment termination type 1: Normal termination
+Drift Direction: up
+Initial Contrast: 25.1189
+Staircase completed after 45 trials with 12 reversals at :
+12.5893
+100
+70.7946
+100
+17.7828
+25.1189
+12.5893
+25.1189
+12.5893
+25.1189
+6.30957
+8.91251
+
+RESULTS:	***UNRELIABLE***
+Contrast	Seen	Not Seen	Per. Corr.		Weibull
+100		4	0	100		80
+70.7946		2	1	66.6667		80
+50.1187		2	1	66.6667		80
+35.4813		2	0	100		80
+25.1189		10	1	90.9091		80
+17.7828		7	3	70		80
+12.5893		4	3	57.1429		80
+8.91251		4	0	100		80
+6.30957		0	1	0		50
+
+log Mean of Reversal (deg): 0.875(13.3352)	log StdDev of Reversal: 0.0782624
+Maximum Likelihood Fit:
+  log Threshold (deg) = 1.08(8.31764)	Slope = 63.3957	FalseNeg = 0.2
+Log ratio of thh (absolute value) = 0.205
+
+Results for Staircase 2
+Experiment termination type 1: Normal termination
+Drift Direction: down
+Initial Contrast: 25.1189
+Staircase completed after 37 trials with 12 reversals at :
+6.30957
+50.1187
+35.4813
+70.7946
+50.1187
+70.7946
+17.7828
+25.1189
+17.7828
+25.1189
+12.5893
+17.7828
+
+RESULTS:	***UNRELIABLE***
+Contrast	Seen	Not Seen	Per. Corr.		Weibull
+70.7946		4	0	100		82
+50.1187		4	2	66.6667		82
+35.4813		3	1	75		82
+25.1189		9	1	90		82
+17.7828		6	2	75		74.4611
+12.5893		2	2	50		52.8072
+6.30957		0	1	0		50.0118
+
+log Mean of Reversal (deg): 0.725(18.8365)	log StdDev of Reversal: 0.0111803
+Maximum Likelihood Fit:
+  log Threshold (deg) = 0.79(16.2181)	Slope = 7.98105	FalseNeg = 0.18
+Log ratio of thh (absolute value) = 0.065
+
+
+RAW STAIRCASE DATA:
+
+
+Raw data for staircase 1
+Order	Contrast	Incorrect	Side	Response	Eccentricity	Trial Type
+0	25.11886		 	1	1	0		R
+1	25.11886		 	1	1	0		R
+2	12.58925		*	1	2	0		R
+4	25.11886		*	2	1	0		R
+6	50.11872		*	2	1	0		R
+9	100.00000		 	2	2	0		R
+11	100.00000		 	1	1	0		R
+16	70.79458		*	2	1	0		R
+17	100.00000		 	2	2	0		R
+23	100.00000		 	1	1	0		R
+25	70.79458		 	1	1	0		R
+29	70.79458		 	1	1	0		R
+31	50.11872		 	2	2	0		R
+35	50.11872		 	2	2	0		R
+37	35.48134		 	1	1	0		R
+38	35.48134		 	1	1	0		R
+39	25.11886		 	2	2	0		R
+41	25.11886		 	2	2	0		R
+42	17.78279		 	2	2	0		R
+43	17.78279		*	1	2	0		R
+44	25.11886		 	1	1	0		R
+45	25.11886		 	1	1	0		R
+47	17.78279		 	2	2	0		R
+50	17.78279		 	2	2	0		R
+51	12.58925		 	1	1	0		R
+52	12.58925		*	1	2	0		R
+54	17.78279		*	2	1	0		R
+55	25.11886		 	2	2	0		R
+56	25.11886		 	1	1	0		R
+59	17.78279		 	1	1	0		R
+60	17.78279		 	1	1	0		R
+61	12.58925		 	2	2	0		R
+62	12.58925		*	1	2	0		R
+68	17.78279		*	1	2	0		R
+69	25.11886		 	2	2	0		R
+70	25.11886		 	2	2	0		R
+71	17.78279		 	2	2	0		R
+72	17.78279		 	1	1	0		R
+73	12.58925		 	1	1	0		R
+75	12.58925		 	2	2	0		R
+77	 8.91251		 	1	1	0		R
+78	 8.91251		 	2	2	0		R
+79	 6.30957		*	2	1	0		R
+80	 8.91251		 	1	1	0		R
+81	 8.91251		 	1	1	0		R
+
+
+Raw data for staircase 2
+Order	Contrast	Incorrect	Side	Response	Eccentricity	Trial Type
+3	25.11886		 	2	2	0		R
+5	25.11886		 	1	1	0		R
+7	12.58925		 	1	1	0		R
+8	12.58925		 	2	2	0		R
+10	 6.30957		*	2	1	0		R
+12	12.58925		*	2	1	0		R
+13	25.11886		 	1	1	0		R
+14	25.11886		*	1	2	0		R
+15	50.11872		 	1	1	0		R
+18	50.11872		 	2	2	0		R
+19	35.48134		 	2	2	0		R
+20	35.48134		*	1	2	0		R
+21	50.11872		*	1	2	0		R
+22	70.79458		 	1	1	0		R
+24	70.79458		 	2	2	0		R
+26	50.11872		*	2	1	0		R
+27	70.79458		 	1	1	0		R
+28	70.79458		 	2	2	0		R
+30	50.11872		 	2	2	0		R
+32	50.11872		 	2	2	0		R
+33	35.48134		 	1	1	0		R
+34	35.48134		 	1	1	0		R
+36	25.11886		 	2	2	0		R
+40	25.11886		 	2	2	0		R
+46	17.78279		 	1	1	0		R
+48	17.78279		*	1	2	0		R
+49	25.11886		 	2	2	0		R
+53	25.11886		 	2	2	0		R
+57	17.78279		 	2	2	0		R
+58	17.78279		*	1	2	0		R
+63	25.11886		 	1	1	0		R
+64	25.11886		 	1	1	0		R
+65	17.78279		 	2	2	0		R
+66	17.78279		 	2	2	0		R
+67	12.58925		*	1	2	0		R
+74	17.78279		 	2	2	0		R
+76	17.78279		 	1	1	0		R
